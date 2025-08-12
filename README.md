@@ -51,7 +51,7 @@ This project addresses that by:
 
 ![1. Single Report Output (Structured Input)]( https://github.com/suhasi-gadge/Open_Avenues_Build_Fellowship_Projects/blob/main/Medical%20Data%20Extraction%20Using%20NLP/img/Single%20Report%2001.png) 
 
-![2. Single Report Output (Un-Structured Input)] (https://github.com/suhasi-gadge/Open_Avenues_Build_Fellowship_Projects/blob/main/Medical%20Data%20Extraction%20Using%20NLP/img/Single%20Report.png)
+![2. Single Report Output (Un-Structured Input)](https://github.com/suhasi-gadge/Open_Avenues_Build_Fellowship_Projects/blob/main/Medical%20Data%20Extraction%20Using%20NLP/img/Single%20Report.png)
 
-![3. Batch Evaluation Output (CSV Input)] https://github.com/suhasi-gadge/Open_Avenues_Build_Fellowship_Projects/blob/main/Medical%20Data%20Extraction%20Using%20NLP/img/Batch%20Evaluation.png
+![3. Batch Evaluation Output (CSV Input)](https://github.com/suhasi-gadge/Open_Avenues_Build_Fellowship_Projects/blob/main/Medical%20Data%20Extraction%20Using%20NLP/img/Batch%20Evaluation.png)
 
